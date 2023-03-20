@@ -26,7 +26,7 @@ Download = https://www.python.org/downloads/
 
 # Instalacao 
 
-- (1) Execute o Arquivo RickXml.jar ou Compile utilizando o NetBeans para poder visualizar o Codigo fonte do Programa.
+- (1) Execute o Arquivo RickXml.jar ou Compile utilizando o NetBeans IDE 17 para visualizar o Codigo fonte do Programa.
 
 - Em ambas as execucoes voce precisa estar com o arquivo ou a IDE em modo de Administrador, para que possa salvar o arquivo gerado em XML.
 
