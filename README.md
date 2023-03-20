@@ -36,10 +36,10 @@ Download = https://www.python.org/downloads/
 
 # License 📝
 
-Distributed under the MIT License. See LICENSE for more information.
+[MIT] Distributed under the MIT License. See LICENSE for more information.
 
 # Contato
 
 Voce pode me contatar nas redes sociais disponiveis em meu Git Profile
 
-[MIT] - https://github.com/hckrick
+- https://github.com/hckrick
