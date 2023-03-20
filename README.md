@@ -42,4 +42,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Voce pode me contatar nas redes sociais disponiveis em meu Git Profile
 
-- https://github.com/hckrick
+[MIT] - https://github.com/hckrick
